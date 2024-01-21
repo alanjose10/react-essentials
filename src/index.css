@@ -27,12 +27,13 @@ main {
 
 #core-concepts {
   padding: 1rem;
-  margin-right: 200px;
-  margin-left: 200px;
+  /* margin-right: 200px;
+  margin-left: 200px; */
   border-radius: 6px;
   background-color: #101310;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
+
 main h2 {
   text-align: center;
   font-family: "Roboto Condensed", sans-serif;
@@ -42,8 +43,8 @@ main h2 {
 
 #examples {
   margin: 3rem auto;
-  margin-right: 200px;
-  margin-left: 200px;
+  /* margin-right: 200px;
+  margin-left: 200px; */
 }
 
 #examples h2 {
